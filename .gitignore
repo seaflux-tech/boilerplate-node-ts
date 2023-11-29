@@ -1,0 +1,9 @@
+node_modules
+dist/
+.env
+production.env
+local.env
+combined.log
+error.log
+uploads/*
+!uploads/.gitkeep
